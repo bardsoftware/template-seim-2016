@@ -1,1 +1,1 @@
-# template-seim-2016
+# template-ieee-transactions
